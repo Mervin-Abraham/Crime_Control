@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211232613704",
+    "project_id": "crime-control-37d7b",
+    "storage_bucket": "crime-control-37d7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211232613704:android:c6875d39f8aa3f0a187f7d",
+        "android_client_info": {
+          "package_name": "com.example.crime_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211232613704-ea2rar7lb93t9318gs6iard0veechasu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtRIZvjiHJEWb0-c3A39O6W9G7NPHRN0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211232613704-ea2rar7lb93t9318gs6iard0veechasu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

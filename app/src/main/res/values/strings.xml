@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Crime Control</string>
+    <string name="crime_control">CRIME CONTROL</string>
+    <string name="login">Login</string>
+    <string name="create_account1">Create Account</string>
+    <string name="password1">Password</string>
+    <string name="username1">Email</string>
+    <string name="password2">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="code">+Code</string>
+    <string name="username2">Username</string>
+    <string name="create_account2">Create Account</string>
+    <string name="email">Email</string>
+    <string name="admin">ADMIN</string>
+    <string name="add_crime_record">Add Crime Record</string>
+    <string name="search_crime_record">Search Crime Record</string>
+    <string name="profile_pic_descrip">Profile Pic</string>
+    <string name="already_registered">Already Registered</string>
+    <string name="logout">logout</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyAZqBRn8kn5nmsH_jBR2YHn3Nbgd_oESxc</string>
+    <string name="crime_name">Crime Name</string>
+    <string name="location">Location</string>
+    <string name="button">Submit</string>
+</resources>
