@@ -1,4 +1,4 @@
-# Crime_Control
+# Crime Control
 This project offers ‘Crime and Control’, a user-friendly cloud-based android app, that aims 
 for reliable crime identification, analysis and management. This project aims in developing 
 an android application for crime management, registration and provides meaningful statistics 
